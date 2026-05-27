@@ -2,7 +2,7 @@
 
 A field manual documenting a complete ESRI platform workflow from ArcGIS Pro project setup through web publishing, data collection, application development, and live data monitoring. Built from real project work across two Texas Hill Country watershed flood analyses, every lesson here was earned in the field, not the classroom.
 
-**Environment:** ArcGIS Pro 3.x | ArcGIS Online | Survey123 | Experience Builder | ArcGIS Dashboards | ArcPy | GitHub Actions
+**Environment:** ArcGIS Pro 3.x | ArcGIS Online | Survey123 | Experience Builder | StoryMap | ArcGIS Dashboards | ArcPy | GitHub Actions
 
 **Study Areas:** Guadalupe River / Kerr County (Repository 4) | Llano River / Llano and Burnet Counties (Repository 5)
 
